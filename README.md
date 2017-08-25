@@ -14,3 +14,4 @@ Or, maybe this might be an option:
 https://www.resilio.com/blog/sync-hacks-how-to-sync-without-data-loss-using-btsync-raspberry-pi
 https://en.wikipedia.org/wiki/Resilio_Sync
 https://syncthing.net/
+https://www.htpcguides.com/install-syncthing-raspberry-pi-bittorrent-sync-alternative/ <--
